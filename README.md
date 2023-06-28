@@ -17,6 +17,6 @@
 
   ##
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavio-Henrick&show_icons=true&theme=dark)
+  ![Flavio-Henrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flavio-Henrick&show_icons=true&theme=dark)
   
 
